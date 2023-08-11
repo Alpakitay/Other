@@ -1,0 +1,19 @@
+[[doing]]
+title = "Design Layout"
+icon = "./config/assets/icons/a.svg"
+text = "Organization and arrangement of objects and elements in a certain space in terms of programming."
+
+[[doing]]
+title = "Database Management"
+icon = "./config/assets/icons/database.svg"
+text = "Database management expertise for data handling."
+
+[[doing]]
+title = "UI/UX Designing"
+icon = "./config/assets/icons/compass.svg"
+text = "Intuitive and visually appealing user interfaces and user experiences."
+
+[[doing]]
+title = "Web Development"
+icon = "./config/assets/icons/laptop-code.svg"
+text = "High-quality development of sites at the professional level."

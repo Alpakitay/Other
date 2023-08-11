@@ -1,0 +1,15 @@
+# https://ionic.io/ionicons
+# <ion-icon name="[[name]]"></ion-icon>
+# name = "https://example.com/"
+
+logo-facebook = "https://www.facebook.com/profile.php?id=100009072967225"
+# logo-twitter = "https://twitter.com/"
+logo-instagram = "https://www.instagram.com/amigus11/"
+logo-linkedin = "https://www.linkedin.com/in/ricardo-geanfranco-su%C3%A1rez-campos-2316a5280/"
+logo-github = "https://github.com/Th3Amiguit0"
+# logo-dribbble = "https://dribbble.com/"
+logo-figma = "https://www.figma.com/file/v8YGLq0gTTkwZ870sgnFxI/Presentacion-N%C2%B0-2?type=design&node-id=0%3A1&mode=design&t=bQBSOXmoY4vmf7L8-1"
+logo-discord = "https://discord.gg/ZXvSqbdn/"
+# logo-youtube = "https://youtube.com/"
+# logo-reddit = "https://www.reddit.com/"
+# logo-pinterest = "https://www.pinterest.com/"

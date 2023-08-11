@@ -1,0 +1,69 @@
+############## Education config #################
+#################################################
+[[education]]
+title = "Technological University Of Peru"
+timeline = "2019  — Present"
+description = "Professional training at the Technological University of Peru, learning programming and technological skills"
+
+[[education]]
+title = "Private Technical Institute"
+timeline = "2021 — 2022"
+description = "Certificate in maintenance development of technological computers."
+
+############## Experience config ################
+#################################################
+[[experience]]
+title = "In Progress"
+timeline = "** — **"
+description = "..."
+
+[[experience]]
+title = "In Progress"
+timeline = "** — **"
+description = "..."
+
+[[experience]]
+title = "Zzootec"
+timeline = "2021 — 2023"
+description = "Company specializing in selling cellphone accessories, providing a wide range of modern and functional products. Personalized service and expert advice to ensure customer satisfaction. Committed to quality and innovation to enhance our customers' mobile experience"
+
+
+############## Skills config ####################
+#################################################
+[skills] 
+title = "My Skills"
+enabled = true
+show_bar = true
+show_value = true
+
+[[skill]]
+title = "Web design"
+value = "80%"
+
+[[skill]]
+title = "Graphic design"
+value = "70%"
+
+[[skill]]
+title = "Branding"
+value = "90%"
+
+[[skill]]
+title = "WordPress"
+value = "50%"
+
+############## Language config ##################
+#################################################
+[languages]
+title = "Languages"
+enabled = true
+show_bar = true
+show_value = true
+
+[[language]]
+title = "Ingles"
+value = "80%"
+
+[[language]]
+title = "French"
+value = "20%"

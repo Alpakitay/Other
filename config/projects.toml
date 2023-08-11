@@ -1,0 +1,23 @@
+[[project]]
+title = "Development and interpretation with Machine Learning and Regressive Data"
+category = "Logical Regression with AI"
+image = "config/assets/posts/test-01.jpg"
+url = "https://github.com/Th3Amiguit0/IA-RegresionLogic.git"
+
+[[project]]
+title = "VISA Cart – Java Android"
+category = "Payment method in Java – Android"
+image = "config/assets/posts/test-02.jpg"
+url = "https://github.com/Th3Amiguit0/PaqtaFood.git"
+
+[[project]]
+title = "Connection of 3 services with dependencies"
+category = "Microservices"
+image = "config/assets/posts/test-03.jpg"
+url = "https://github.com/Th3Amiguit0/SD.git"
+
+[[project]]
+title = "Help course for routing call logs in android"
+category = "Call Log"
+image = "config/assets/posts/test-04.jpg"
+url = "https://github.com/Th3Amiguit0/Registro_LLamadas.git"

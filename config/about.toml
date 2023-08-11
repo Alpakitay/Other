@@ -1,0 +1,16 @@
+name = "Ricardo Suarez"
+rol = "Designer Developer"
+email = "data.prueba21@gmail.com"
+phone = "+51 903 050 414"
+birthday = "February 05, 2004"
+location = "Urb. Sol de Ica VII"
+avatar = "./config/assets/avatars/llamin.gif"
+username = "TheAlpaka" # <-- github user name
+googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3869.986963649528!2d-75.72847807567537!3d-14.077946833037087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9110e2f7b73df2cb%3A0x2afc417a968cfd6f!2sUrb.%20Sol%20de%20Ica%2C%20Ica%2011001!5e0!3m2!1ses-419!2spe!4v1691454910625!5m2!1ses-419!2spe"
+presentation = """
+I designate myself to be a junior project designer, I like to have an intuition and a continuous improvement to new projects in terms of visual design, helping to improve general business prospects.
+
+My objective is to publicize my proposals with different codified designs through new projects and also by analyzing data.
+
+I join organizations quickly in terms of information analysis, prospectus and information design, while analyzing information critically and with different interpretations for continuous improvement of the company.
+"""
